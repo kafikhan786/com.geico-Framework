@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T14:55:52 EST" name="Default suite" finished-at="2024-03-05T14:56:05 EST" duration-ms="13024">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T14:55:52 EST" name="Default test" finished-at="2024-03-05T14:56:05 EST" duration-ms="13024">
+      <class name="pagesTest.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pagesTest.HomePageTest@54e1c68b]" started-at="2024-03-05T14:55:52 EST" name="setUp" finished-at="2024-03-05T14:55:58 EST" duration-ms="5817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickSearchFieldTest()[pri:0, instance:pagesTest.HomePageTest@54e1c68b]" started-at="2024-03-05T14:55:58 EST" name="clickSearchFieldTest" finished-at="2024-03-05T14:56:05 EST" duration-ms="7089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSearchFieldTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:pagesTest.HomePageTest@54e1c68b]" started-at="2024-03-05T14:56:05 EST" name="tearUp" finished-at="2024-03-05T14:56:05 EST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- pagesTest.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
